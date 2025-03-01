@@ -1,0 +1,55 @@
+Máq,Máq_Tipo,Fabricante,Modelo
+M19,M19-SS,Komax,Alpha 355
+M20,M20-SS,Komax,Alpha 355
+M21,M21-SS,Komax,Alpha 355
+M23,M23-SS,Komax,Alpha 355
+M22,M22-SS,Komax,Alpha 355
+M27,M27-TS,Komax,Alpha 355
+M29,M29-TS,Komax,Alpha 355
+M43,M43-TS,Komax,Alpha 355
+M44,M44-TT,Komax,Alpha 355
+M32,M32-SS,Schleuniger,CC64
+M45,M45-SS,Schleuniger,CC64
+M40,M40-TS,Schleuniger,CC64
+M42,M42-TS,Schleuniger,CC64
+M24,M24-TT,Schleuniger,CC64
+M25,M25-TT,Schleuniger,CC64
+M26,M26-TT,Schleuniger,CC64
+M28,M28-TT,Schleuniger,CC64
+M30,M30-TT,Schleuniger,CC64
+M31,M31-TT,Schleuniger,CC64
+M41,M41-TT,Schleuniger,CC64
+M03,M03-TT,Schleuniger,CC63
+M16,M16-TT,Schleuniger,CC63
+M15,M15-SS,Schleuniger,CC64
+M18,M18-SS,Schleuniger,CC64 ACS
+M17,M17-TT,Komax,Gamma 236S
+M33,M33-TT,Komax,Sigma 668 ST
+M34,M34-TT,Komax,Sigma 668 ST
+M35,M35-TT,Komax,Sigma 668 ST
+M36,M36-TT,Komax,Sigma 668 ST
+M37,M37-SS,Komax,Sigma 668 ST
+M38,M38-TS,Komax,Sigma 668 ST
+M39,M39-SS,Komax,Sigma 668 ST
+M46,M46-SS,Komax,Alpha 560
+B01,B01-TT,Schleuniger,PowerStrip9550
+B02,B02-TT,Schleuniger,MultiStrip9480
+M00,M00,Corte,Corte
+,M00,Corte,Corte
+-,M00,Corte,Corte
+0,M00,Corte,Corte
+M001,M001,Schleuniger,PS 9550
+M002,M002,Schleuniger,MS 9600
+M01,M01-TT,Schleuniger,CC63
+M02,M02-TT,Schleuniger,CC63
+M04,M04-TT,Schleuniger,CC63
+M05,M05-TT,Schleuniger,CC63
+M06,M06-TT,Schleuniger,CC63
+M07,M07-TT,Komax,Gamma 236S
+M08,M08-TT,Komax,Gamma 236S
+M09,M09-TT,Komax,Gamma 236S
+M10,M10-TT,Komax,Gamma 236S
+M11,M11-TT,Komax,Gamma 236S
+M12,M12-TT,Komax,Gamma 236S
+M13,M13-TT,Komax,Gamma 236S
+M14,M14-TT,Komax,Gamma 236S
