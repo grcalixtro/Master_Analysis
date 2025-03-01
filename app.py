@@ -27,9 +27,9 @@ st.set_page_config(
 )
 #--------------------------------------------- Carregar dados do Arquivo -----------------------------------------------------
 
-Master = pd.read_csv(r"C:\Users\Family\Documents\Cursos Python\Projeto_Master\df_Master.csv")
-maqs_corte = pd.read_csv(r"C:\Users\Family\Documents\Cursos Python\Projeto_Master\df_maqs_corte.csv")
-lista_cfa = pd.read_csv(r'C:\Users\Family\Documents\Cursos Python\Projeto_Master\df_cfa.csv')
+Master = pd.read_csv("df_Master.csv")
+maqs_corte = pd.read_csv("df_maqs_corte.csv")
+lista_cfa = pd.read_csv('df_cfa.csv')
 
 # Converte 'total week' para numérico, forçando erros como NaN
 Master['total week'] = pd.to_numeric(Master['total week'], errors='coerce')
